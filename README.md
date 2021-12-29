@@ -7,7 +7,7 @@
 
 - 🔭 Atualmente trabalho com Data Analytics
 - 💥 Graduando em ADM - UFMG
-- 🌱 Estudando Python
+- 🌱 Estudando Python & JavaScript
 - 📫 Contate-me no email: thiagoh_bastos@hotmail.com
 
  <div style="display: inline_block"><br>
