@@ -5,9 +5,9 @@
 </div>
 <p></p>
 
-- 🔭 Atualmente trabalho com Data Analytics
-- 💥 Graduando em ADM - UFMG
-- 🌱 Estudando Python & JavaScript
+- 🔭 Engenheiro de Dados em aprimoramento
+- 💥 Pós-graduado em Engenharia de Dados (PUCMG) e Graduado em ADM - UFMG
+- 🌱 Foco atual em PySpark, Kafka, Databricks e Data Factory
 - 📫 Contate-me no email: thiagoh_bastos@hotmail.com
 
  <div style="display: inline_block"><br>
@@ -18,8 +18,6 @@
 <div> 
   <a href="https://www.linkedin.com/in/thiagohbastos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.instagram.com/bastos.t/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://open.spotify.com/user/22v46iy2gcsidnrwwms6hbjha?si=9a74462c8d7741c3" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/thiagohbastos/thiagohbastos/blob/output/github-contribution-grid-snake.svg)
+ </a> 
  
 </div>
